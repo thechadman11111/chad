@@ -1,5 +1,6 @@
-pub mod agent;
-pub mod characteristics;
-pub mod instruction_builder;
-pub mod runtime;
-pub mod character;
+pub mod bio;
+pub mod lore;
+pub mod adjectives;
+pub mod post_examples; 
+pub mod styles;
+pub mod topics;
