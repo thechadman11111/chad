@@ -1,4 +1,4 @@
-# RINA
+# RINAtest
 
 ![banner](https://github.com/user-attachments/assets/0a999247-098b-4ba9-9126-45d8ccc17c86)
 
