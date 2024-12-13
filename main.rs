@@ -1,12 +1,3 @@
-mod characteristics;
-mod core;
-mod memory;
-mod providers;
-use core::{instruction_builder::InstructionBuilder, runtime::Runtime};
-extern crate dotenv;
-
-use dotenv::dotenv;
-use std::env;
 
 #[tokio::main]
 async fn main() -> Result<(), anyhow::Error> {
