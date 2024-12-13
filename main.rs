@@ -1,3 +1,8 @@
+# Ignore all JavaScript files
+*.js linguist-ignore
+
+# Ignore a specific directory
+/node_modules/* linguist-ignore
 
 #[tokio::main]
 async fn main() -> Result<(), anyhow::Error> {
